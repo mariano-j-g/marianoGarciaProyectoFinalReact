@@ -31,7 +31,7 @@ const ItemListContainer = () => {
       <h1>Harry Potter Shop</h1>
       <h4>
         El hechizo invocador de serpientes,{" "}
-        <span className="fst-italic">buzon</span>, es un hechizo de
+        <span className="fst-italic">Serpensortia</span>, es un hechizo de
         transformación que conjura una serpiente del extremo de la varita.
       </h4>
       <ItemList products={products} />
