@@ -1,0 +1,7 @@
+.productos__imagen {
+    background-image: url("./assets/BackgroundProductos.png");
+    border-radius: 14px;
+    -moz-border-radius: 14px;
+    -webkit-border-radius: 14px;
+    border: .2rem dotted #9B9A95;
+}

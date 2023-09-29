@@ -1,0 +1,5 @@
+.carrito__cantidad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

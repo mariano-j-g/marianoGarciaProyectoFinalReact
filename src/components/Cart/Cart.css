@@ -1,0 +1,16 @@
+.carrito__container {
+    max-width: 100rem;
+    background: linear-gradient(150deg, var(--claro) 49%, var(--secundario) 150%);
+    -webkit-box-shadow: -10px 10px 36px -10px var(--oscuro);
+    -moz-box-shadow: -10px 10px 36px -10px var(--oscuro);
+    box-shadow: -10px 10px 36px -10px var(--oscuro);
+}
+
+.carrito__titulo {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.btn {
+    margin: 0 .2rem;
+}
